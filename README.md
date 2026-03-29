@@ -80,19 +80,19 @@ Sipho          Ncube          21        4823917         Python selected         
 
 **Successful application — APS ≥ 30 (language selection unlocked)**
 
-![Accepted applicant terminal output](screenshots/terminal_accepted.svg)
+![Accepted applicant terminal output](terminal_accepted.svg)
 
 ---
 
 **Rejected application — underage applicant**
 
-![Rejected underage applicant terminal output](screenshots/terminal_rejected_age.svg)
+![Rejected underage applicant terminal output](terminal_rejected_age.svg)
 
 ---
 
 **Input validation — graceful recovery from invalid input**
 
-![Invalid input handling terminal output](screenshots/terminal_invalid_input.svg)
+![Invalid input handling terminal output](terminal_invalid_input.svg)
 
 ---
 
